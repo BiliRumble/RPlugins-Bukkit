@@ -1,4 +1,4 @@
-简体中文 | <a href="">English</a>
+简体中文 | <a href="https://github.com/BiliRumble/RPlugins-Bukkit/blob/main/README-zhcn.md">English</a>
 
 # RPlugins-Bukkit
 ## 我的世界 Java版 Bukkit 服务端 RPlugins插件.
