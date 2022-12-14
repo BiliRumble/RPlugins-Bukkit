@@ -1,4 +1,4 @@
-<a href="https://github.com/BiliRumble/RPlugins-Bukkit/blob/main/README-zhcn.md">简体中文</a> | English
+<a href="https://github.com/BiliRumble/RPlugins-Bukkit/blob/main/README.md">简体中文</a> | English
 
 ###### The current language ReadMe is machine translation.
 # RPlugins-Bukkit
